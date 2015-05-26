@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/binRick/demoApp",
   "dependencies": {
+    "pageres": "^1.4.0",
     "prompt": "^0.2.14",
     "pty.js": "^0.2.7-1",
     "tty.js": "^0.2.14-1"
