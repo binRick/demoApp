@@ -1,0 +1,24 @@
+{
+  "name": "demoApp",
+  "version": "1.0.0",
+  "description": "demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binRick/demoApp"
+  },
+  "author": "Rick Blundell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/demoApp/issues"
+  },
+  "homepage": "https://github.com/binRick/demoApp",
+  "dependencies": {
+    "prompt": "^0.2.14",
+    "pty.js": "^0.2.7-1",
+    "tty.js": "^0.2.14-1"
+  }
+}
